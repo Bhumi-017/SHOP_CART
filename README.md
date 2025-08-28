@@ -1,5 +1,4 @@
 
-```markdown
 # 🛒 Shop Cart
 
 A basic **React frontend practice project** that simulates a shopping cart.  
@@ -22,7 +21,7 @@ It allows users to **search products, add them to the cart, remove them**, and *
    ```bash
    git clone https://github.com/your-username/shop_cart.git
    cd shop_cart
-````
+   ````
 
 2. Install dependencies:
 
