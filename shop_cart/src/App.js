@@ -1,8 +1,8 @@
 //App.js
  
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
-import SearchComponent from './components/SearchComponent.js' ;
+import SearchComponent from './components/SearchComponent.js';
 import ShowCourseComponent from './components/ShowCourseComponent';
 import UserCartComponent from './components/UserCartComponent';
  
@@ -24,7 +24,7 @@ function App() {
           name: 'MFCT Mens..', 
           price: 5700, 
           image: 
-'https://nickronindia.com/cdn/shop/files/IMG_5348copy_800x.jpg?v=1699258082'
+"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/311108/02/fnd/IND/fmt/png/Questblitz-Men's-Running-Shoes"
         },
         { id: 4, 
             name: 'Puma Unisex..', 
@@ -36,7 +36,7 @@ function App() {
             name: 'Timberland M..', 
             price: 10800, 
             image: 
-  'https://images.timberland.com/is/image/timberland/10061713-ALT4'
+  'https://assets.timberland.com/images/t_img/f_auto,h_650,w_650,e_sharpen:60/dpr_2.0/v1741199053/TB110061713-ALT4/Mens-Timberland-Premium-6Inch-Waterproof-Boot.png'
           },
         { id: 6, 
             name: 'WOMENS AD..', 
